@@ -1,4 +1,4 @@
-# 网易易盾滑动验证码识别（版本：2.28.5）
+# 网易易盾滑动拼图验证码识别（版本：2.28.5）
 
 https://github.com/user-attachments/assets/66380dc0-dd32-40f3-86f0-e11d32ab4ad3
 
